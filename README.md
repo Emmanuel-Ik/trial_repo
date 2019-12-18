@@ -1,9 +1,9 @@
 # trial-repo
 > Here is an amazeballs work 
 
-##my website is at:
+## my website is at:
 the _link_ , to my _website_ is:
-[www.ik-emmanuel.github.io](https://ik-emmanuel.github.io)
+[www.ik-emmanuel.com](https://ik-emmanuel.github.io)
 
 ## first of its kind
 this is the very first one i tried and i realised that it was awesome, even though i didn't do too much.
