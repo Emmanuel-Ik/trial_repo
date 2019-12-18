@@ -5,7 +5,8 @@
 the _link_ , to my _website_ is:
 [www.ik-emmanuel.com](https://ik-emmanuel.github.io)\
 but have 
- a new \ life a the world \ God is good
+ a new\ life a the world\
+ God is good
 
 ## first of its kind
 this is the very first one i tried and i realised that it was awesome, even though i didn't do too much.
