@@ -1,13 +1,15 @@
 # trial-repo
+> Here is an amazeballs work 
+
 ## first of its kind
 this is the very first one i tried and i realised that it was awesome, even though i didn't do too much.
 #### I mean it!
 i was super excited to do it
 
 ## Table of Content
-* [General info] (#general-info)
-* [Technologies] (#technologies)
-* [Setup ] (#setup)
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup ](#setup)
 
 ## General info 
 This project is the first of its kind, o show how we explore github portfolios 
