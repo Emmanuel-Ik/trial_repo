@@ -30,3 +30,7 @@ pip do nothing
 ```
 ## pictures 
 ![The Car of my dreams](./img/images_edit.jpg)
+
+## code example
+example coden is :
+'the type i like is def func_name:'
