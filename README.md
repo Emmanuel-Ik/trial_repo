@@ -4,10 +4,10 @@
 ## my website is at:
 the _link_ , to my _website_ is:
 [www.ik-emmanuel.com](https://ik-emmanuel.github.io)\
-but have 
+but have\ 
  a new\ 
  life a the world\
- God is good
+ God is good\
  and he loves me
 
 ## first of its kind
