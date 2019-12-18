@@ -18,9 +18,9 @@ i was super excited to do it
 ## General info 
 This project is the first of its kind, o show how we explore github portfolios 
 > It was mad fun 
-> I enjoyed every bit 
-> I loved the experience 
-> I made new things 
+ I enjoyed every bit 
+ I loved the experience 
+> I made new things >
 ``` import pandas as pd
     import numpy as np 
     run code run code 
