@@ -33,4 +33,4 @@ pip do nothing
 
 ## code example
 example coden is :
-'the type i like is def func_name:'
+```the type i like is def func_name:```
